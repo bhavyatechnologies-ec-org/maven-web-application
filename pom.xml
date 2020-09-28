@@ -94,20 +94,20 @@
 	</dependencies>
 	
 	<distributionManagement>
-	
+
 	    <repository>
 	      <id>nexus</id>
 	   	      <url>http://18.133.26.40:8081/repository/flipkart-snapshot/</url>
 		       <name>Mithun Technologies Releases Nexus Repository</name>
 	 	    </repository>
-	    
+	   <!--
 	    <snapshotRepository>
 	      <id>nexus</id>
+		        <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://18.133.26.40:8081/repository/flipkart-snapshot/</url>
-		    <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      
-	    </snapshotRepository>
-	    
+		
+	      	    </snapshotRepository>
+	    -->
 	</distributionManagement>
 	
 	<build>
