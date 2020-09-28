@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexusbhavya</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.133.223.128:9980/repository/flipkart-releases/</url>
+	      <url>http://18.133.223.128:8081/repository/flipkart-releases/</url>
 	 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexusbhavya</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.133.223.128:9980/repository/flipkart-snapshot/</url>
+	      <url>http://18.133.223.128:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
