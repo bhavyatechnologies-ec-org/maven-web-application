@@ -82,7 +82,7 @@
 			<version>${spring.version}</version>
 		</dependency>
 		
-		<!-- provided dependencies -->
+		<!-- provided dependencies 
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -90,7 +90,7 @@
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
-		
+		-->
 	</dependencies>
 	
 	<distributionManagement>
@@ -99,7 +99,7 @@
 	      <id>nexus</id>
 	      <name>Bhavya Technologies Releases Nexus Repository</name>
 	      <url>http://18.133.223.128:9980/Bhavyatechnologies/repository/flipkart-releases/</url>
-	    </repository>
+	 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
