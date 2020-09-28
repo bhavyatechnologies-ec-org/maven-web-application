@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Bhavya Technologies Releases Nexus Repository</name>
-	      <url>http://18.130.216.216:9980/Bhavyatechnologies/repository/flipkart-releases/</url>
+	      <url>http://18.133.223.128:9980/Bhavyatechnologies/repository/flipkart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Bhavya Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.130.216.216:9980/Bhavyatechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://18.133.223.128:9980/Bhavyatechnologies/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
